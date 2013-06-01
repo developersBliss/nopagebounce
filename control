@@ -1,0 +1,9 @@
+Package: com.developersbliss.nopagebounce
+Name: No Page Bounce
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Disables all page bouncing in SpringBoard.
+Maintainer: developersBliss
+Author: developersBliss
+Section: Tweaks
