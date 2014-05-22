@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = nopagebounceprefs;
+		cell = PSLinkCell;
+		detail = "nopagebounceprefsListController";
+		icon = "nopagebounceprefs.png";
+		isController = 1;
+		label = "No Page Bounce";
+	};
+}
