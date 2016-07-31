@@ -1,7 +1,7 @@
 export ARCHS=armv7 arm64
 export TARGET=iphone:latest:4.3
 
-include theos/makefiles/common.mk
+include $(THEOS_MAKE_PATH)/common.mk
 
 TWEAK_NAME = NoPageBounce
 NoPageBounce_FILES = Tweak.xm
