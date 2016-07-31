@@ -1,7 +1,7 @@
 Package: com.developersbliss.nopagebounce
 Name: No Page Bounce
 Depends: mobilesubstrate, applist (>= 1.4.1), firmware (>= 4.3), preferenceloader
-Version: 2.0.1
+Version: 2.0.2
 Architecture: iphoneos-arm
 Description: Disables page bouncing in SpringBoard and apps.
 Maintainer: developersBliss
